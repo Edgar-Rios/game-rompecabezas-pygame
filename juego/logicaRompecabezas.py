@@ -32,7 +32,7 @@ _l :text label
 
 import os
 import sys
-import cfg
+from juego import cfg
 import pygame as pg
 import random
 
